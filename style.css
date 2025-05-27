@@ -83,7 +83,7 @@ html{
     height: 32px;
     line-height: 32px;
     vertical-align: middle;
-    transition: 1s;
+    transition: 0.5s;
     transition-property: all;
 }
 
@@ -97,7 +97,7 @@ html{
     border-bottom-right-radius: 4px;
     left: 0;
     transform: translateX(-4px);
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .links__link--hover:hover {
